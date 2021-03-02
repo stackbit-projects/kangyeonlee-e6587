@@ -19,7 +19,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Features",
+                "label": "ABOUT",
                 "url": "/features",
                 "style": "link"
             },
