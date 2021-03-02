@@ -52,7 +52,6 @@
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "LinkedIn",
                         "url": "https://www.linkedin.com/",
                         "style": "link",
                         "has_icon": true,
