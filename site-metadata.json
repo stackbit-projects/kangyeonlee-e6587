@@ -60,7 +60,6 @@
             },
             {
                 "label": "Instagram",
-                "url": "#",
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",
