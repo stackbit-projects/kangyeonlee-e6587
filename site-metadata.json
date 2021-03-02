@@ -82,7 +82,6 @@
             {
                 "type": "footer_nav",
                 "template": "footer_nav",
-                "title": "Community",
                 "nav_links": [
                     {
                         "type": "action",
