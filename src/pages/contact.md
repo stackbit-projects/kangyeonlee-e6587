@@ -19,7 +19,7 @@ sections:
         template: form_field
         input_type: email
         name: email
-        label: Email
+        label: EMAIL
         is_required: true
       - type: form_field
         template: form_field
