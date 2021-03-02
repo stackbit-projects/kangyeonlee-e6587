@@ -41,7 +41,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Terms of Service",
+                "label": "LinkedIn",
                 "url": "/terms-of-service",
                 "style": "primary",
                 "has_icon": true,
