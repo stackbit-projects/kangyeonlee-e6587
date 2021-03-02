@@ -137,7 +137,7 @@
                 "submit_label": "Subscribe"
             }
         ],
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "type": "action",
