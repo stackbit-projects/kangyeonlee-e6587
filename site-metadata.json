@@ -93,7 +93,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "#",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "right",
