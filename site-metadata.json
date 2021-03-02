@@ -161,7 +161,7 @@
                 "style": "secondary",
                 "has_icon": true,
                 "icon": "instagram",
-                "icon_position": "left",
+                "icon_position": "right",
                 "new_window": true,
                 "no_follow": true,
                 "type": "action",
