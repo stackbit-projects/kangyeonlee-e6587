@@ -14,6 +14,9 @@ sections:
         label: Say Hello
         url: /contact
         style: primary
+    content: >
+      # I am a curious observer, obsessed with creation, teams' lubricant, and a
+      UI/UX designer!
   - type: section_features
     template: section_features
     section_id: features
