@@ -58,7 +58,7 @@
             {
                 "label": "instagram",
                 "url": "https://www.instagram.com/yoni_llustration/",
-                "style": "secondary",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "right",
