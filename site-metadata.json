@@ -67,7 +67,7 @@
                 "type": "action"
             },
             {
-                "label": " ",
+                "label": "           ",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
