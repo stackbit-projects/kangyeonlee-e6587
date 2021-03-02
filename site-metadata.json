@@ -44,7 +44,8 @@
                 "label": "Terms of Service",
                 "url": "/terms-of-service",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "facebook"
             },
             {
                 "type": "action",
