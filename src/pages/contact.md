@@ -13,7 +13,7 @@ sections:
         template: form_field
         input_type: text
         name: name
-        label: Name
+        label: NAME
         is_required: true
       - type: form_field
         template: form_field
