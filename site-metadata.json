@@ -154,7 +154,20 @@
                 "style": "link"
             }
         ],
-        "content": "© GANGYEON LEE. ALL RIGHTS RESERVED."
+        "content": "© GANGYEON LEE. ALL RIGHTS RESERVED.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://kangyeonlee.netlify.app",
     "favicon": "/images/favicon_ky.png"
