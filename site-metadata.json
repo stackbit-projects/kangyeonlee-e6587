@@ -63,7 +63,7 @@
                 "icon": "instagram",
                 "icon_position": "right",
                 "new_window": true,
-                "no_follow": true,
+                "no_follow": false,
                 "type": "action"
             },
             {
