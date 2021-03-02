@@ -7,9 +7,9 @@ sections:
     title: >-
       I am a curious observer, obsessed with creation, teams' lubricant, and a
       UI/UX designer!
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      # I am a curious observer, obsessed with creation, teams' lubricant, and a
+      UI/UX designer!
     image_alt: App preview
     actions:
       - type: action
