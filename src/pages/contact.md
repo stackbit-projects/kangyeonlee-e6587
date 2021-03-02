@@ -5,10 +5,7 @@ sections:
     template: section_contact
     section_id: contact
     title: 'I hope we can keep in touch :)'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: "I'm looking for new opportunities! If you are interested in my works or blog posts, please contact me at\_[kangyeon.lee.alicia@gmail.com](mailto:example@example.com)\n"
     background: gray
     form_id: contactForm
     form_fields:
