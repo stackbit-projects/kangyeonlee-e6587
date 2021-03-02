@@ -67,17 +67,6 @@
         "content": "© GANGYEON LEE. ALL RIGHTS RESERVED.",
         "links": [
             {
-                "label": "instagram",
-                "url": "https://www.instagram.com/yoni_llustration/",
-                "style": "primary",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "left",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "LinkedIn",
                 "url": "#",
                 "style": "link",
