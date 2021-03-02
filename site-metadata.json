@@ -35,42 +35,7 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "sections": [
-            {
-                "type": "footer_nav",
-                "template": "footer_nav",
-                "nav_links": [
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "url": "https://twitter.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "url": "https://www.linkedin.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    },
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "label": "GitHub",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "github",
-                        "icon_position": "left"
-                    }
-                ]
-            }
-        ],
+        "sections": [],
         "has_nav": false,
         "nav_links": [
             {
