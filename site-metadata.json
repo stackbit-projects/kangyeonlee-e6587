@@ -55,7 +55,8 @@
                 "url": "/privacy-policy",
                 "style": "link",
                 "has_icon": true,
-                "icon": "github"
+                "icon": "github",
+                "new_window": true
             },
             {
                 "label": "lorem-ipsum",
