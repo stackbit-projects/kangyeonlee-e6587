@@ -155,19 +155,7 @@
             }
         ],
         "content": "© GANGYEON LEE. ALL RIGHTS RESERVED.",
-        "links": [
-            {
-                "url": "#",
-                "style": "secondary",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "right",
-                "new_window": true,
-                "no_follow": true,
-                "type": "action",
-                "label": "l"
-            }
-        ]
+        "links": []
     },
     "domain": "https://kangyeonlee.netlify.app",
     "favicon": "/images/favicon_ky.png"
