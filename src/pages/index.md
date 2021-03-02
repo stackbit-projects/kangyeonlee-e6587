@@ -7,7 +7,6 @@ sections:
     title: >-
       I am a curious observer, obsessed with creation, teams' lubricant, and a
       UI/UX designer!
-    image_alt: App preview
     actions:
       - type: action
         template: action
