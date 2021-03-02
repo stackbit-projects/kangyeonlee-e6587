@@ -87,7 +87,6 @@
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "Twitter",
                         "url": "https://twitter.com/",
                         "style": "link",
                         "has_icon": true,
