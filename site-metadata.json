@@ -37,14 +37,6 @@
         "template": "footer",
         "sections": [
             {
-                "type": "footer_text",
-                "template": "footer_text",
-                "image": "images/logo-alt.svg",
-                "image_alt": "Footer logo",
-                "image_url": "/",
-                "content": "Stackbit theme demo"
-            },
-            {
                 "type": "footer_nav",
                 "template": "footer_nav",
                 "nav_links": [
